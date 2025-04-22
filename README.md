@@ -15,7 +15,7 @@ A 3D visualization of windmills with real-time wind effects and particle systems
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/windmill-app.git
+git clone https://github.com/Kalmeshteli17/windmill-app.git
 cd windmill-app
 ```
 
